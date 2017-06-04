@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Online Logger</string>
+    <string name="login_button_text">Войти</string>
+    <string name="get_friends_button_on_text">Старт</string>
+    <string name="get_friends_button_off_text">Стоп</string>
+    <string name="offline_column_header">ВНЕ СЕТИ</string>
+    <string name="online_column_header">В СЕТИ</string>
+    <string name="logout_button_text">Выйти</string>
+    <string name="wait_for_update_text">Подождите, список друзей обновляется...</string>
+    <string name="connection_error_text">Ошибка подключения... Проверьте интернет-соединение</string>
+</resources>
